@@ -38,3 +38,5 @@ class Student
     binding.pry
   end
 end
+
+Student.create(dave, 9th)
