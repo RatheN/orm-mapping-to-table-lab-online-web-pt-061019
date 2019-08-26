@@ -39,4 +39,5 @@ class Student
   end
 end
 
-Student.create("dave", "9th")
+s = Student.create("dave", "9th")
+s.name
